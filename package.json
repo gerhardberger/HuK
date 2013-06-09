@@ -1,5 +1,5 @@
 {
-	"name": "huk",
+	"name": "huk-browserify",
 	"version": "0.0.1",
 	"description": "generate html with javascript",
 	"main": "index.js",
