@@ -8,7 +8,7 @@ var button = $.button('Click!');
 $()
   .header({ 'class': 'foo' }, 'Header')
   .footer({ id: 'bar' })
-  .append(domElement)
+  .appendTo(domElement)
 ;
 ```
 
