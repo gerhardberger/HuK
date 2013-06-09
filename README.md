@@ -1,5 +1,5 @@
 # huk
-Generate HTML code in javascript simply.
+Generate HTML code in javascript simply with this module using [browserify](https://github.com/substack/node-browserify).
 
 ``` js
 var $ = require('huk');
