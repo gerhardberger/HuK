@@ -1,0 +1,20 @@
+{
+	"name": "huk",
+	"version": "0.0.1",
+	"description": "generate html with javascript",
+	"main": "index.js",
+	"dependencies": {
+		"underscore": "*"
+	},
+	"keywords": ["browserify", "html", "dom", "generate"],
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/gerhardberger/huk.git"
+	},
+	"homepage": "https://github.com/gerhardberger/huk",
+	"author": {
+		"name": "Gerhard Berger",
+		"email": "93.morph@gmail.com",
+		"url": "https://twitter.com/gerhard_berger"
+	}
+}
